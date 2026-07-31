@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For full definitions of all roles—including QA / Test Engineer, Release Manager, Engineering Manager / Tech Lead, Executive Sponsor, Support / On-call Engineer, Security / Compliance Reviewer, UX / Design Researcher, and Data / Analytics Partner—see [OctoAcme Personas](octoacme-roles-and-personas.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

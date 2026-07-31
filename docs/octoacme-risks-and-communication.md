@@ -38,5 +38,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level -> **Project Manager** -> **Product Lead / Product Manager** -> **Executive Sponsor**
+- For security incidents, follow the security incident runbook and notify the **Security / Compliance Reviewer** (Security on-call)
+
+See [OctoAcme Personas](octoacme-roles-and-personas.md) for the full responsibilities of each role in the escalation path.

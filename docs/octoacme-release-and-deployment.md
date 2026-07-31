@@ -25,9 +25,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
-  - Trigger incident response and notify on-call
-  - Rollback to last known-good release if necessary
+  - **Support / On-call Engineer** triggers incident response and notifies the **Release Manager / Release Coordinator**
+  - Rollback to last known-good release if necessary (executed by the **Support / On-call Engineer** per the rollback plan owned by the **Release Manager**)
   - Triage root cause and capture action items
+
+See [OctoAcme Personas](octoacme-roles-and-personas.md) for the responsibilities of the [Support / On-call Engineer](octoacme-roles-and-personas.md#support--on-call-engineer) and [Release Manager / Release Coordinator](octoacme-roles-and-personas.md#release-manager--release-coordinator).
 
 ## Release Notes Template
 - Release name / number:

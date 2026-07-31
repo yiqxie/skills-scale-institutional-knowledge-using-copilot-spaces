@@ -29,9 +29,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 1: Team-level triage in daily standup (owned by **Developers** and the **Engineering Manager / Tech Lead**)
+- Level 2: **Project Manager** escalates to the **Product Lead / Product Manager** and dependent teams
+- Level 3: **Executive Sponsor** escalation for business-impacting issues
+
+See [OctoAcme Personas](octoacme-roles-and-personas.md) for the responsibilities of each escalation role.
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
